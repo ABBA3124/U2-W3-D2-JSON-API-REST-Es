@@ -47,4 +47,4 @@ document.addEventListener("DOMContentLoaded", function() {
     })
     // Refresh div 
     aggiornaNomeSalvatoEDisabilitaRimuovi()
-});
+})
